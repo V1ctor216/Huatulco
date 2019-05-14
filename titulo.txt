@@ -1,0 +1,22 @@
+<html>
+    <head>
+    </head>
+    <body bgcolor="#A297DA">
+        <H1> Gastronomia </H1>
+        <center><table border="1">
+         <tr>
+           <th> Imagen </th>
+         </tr>
+         <tr>
+           <td><img src= "GOVJ_EP1.jpg" with= 200 height=300>  </td>
+         </tr>
+         <tr>
+           <td> <img src= ".jpg" with= 200 height=300> </td>
+         </tr>
+         <tr>
+           <td> Mezcal </td>
+           <td> <img src= ".jpg" with= 200 height=300> </td>
+         </tr>
+      </table></center>
+    </body>
+</html>

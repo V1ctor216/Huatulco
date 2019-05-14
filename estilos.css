@@ -1,0 +1,75 @@
+
+ body { background: Red;}
+ .bform { background: #A468BC;}
+ .bred { background: #E432BB;}
+ .fotos {background: #E4FF00}
+ 
+ H1 {color: #FFFFFF ;
+    background-color: #000000 ;
+    text-align: center;
+    font-family: Algerian;
+    font-size: 4em;}
+ H1:hover {color: #2AD1DC;}
+
+
+ table {text-align: center; }
+ 
+ th {color: #D28FF9;
+            font-family: Verdana;}
+            
+ th:hover {color: #817E83;}
+
+ .bebida {
+  color: #FFFFFF;
+  background-color: #393939;
+  text-align: Justify;
+  font-family: Viner Hand ITC;  
+  }
+ .bebida:active { color: lime; }
+
+ .cruz {
+  color: #FFFFFF;
+  background-color: #40B12E;
+  text-align: Justify;
+  font-family: Aharoni;  
+  }
+ .cruz:active { color: #39A7D4; }
+
+ .pes {
+  color: #FFFFFF;
+  background-color: purple;
+  text-align: Justify;
+  font-family: Verdana; 
+  }
+ .pes:active { color: #E7CB05; }
+ 
+
+ td{font-family: Consolas;}
+ td:hover {color: #FFFFFF;}
+
+
+
+
+
+
+
+ .Formulario{ color: #64DE51;
+    background-color: #2EB298 ;
+    text-align: center;
+    font-family: Arial;
+    font-size: 4em;}
+ 
+ form {text-align: center;
+       font-family: DejaVu Sans Light;}
+ 
+ label:hover {color: Red;}
+ 
+ .redd{ color: #2FDA75 ;
+    background-color: #9C9C97 ;
+    text-align: center;
+    font-family: Cabril;
+    font-size: 4em}
+ p{ text-align: Justify;
+  font-family: Verdana }
+
+ 
